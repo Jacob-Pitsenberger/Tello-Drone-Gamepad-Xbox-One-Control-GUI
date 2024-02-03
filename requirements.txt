@@ -1,0 +1,4 @@
+opencv-python~=4.9.0.80
+djitellopy~=2.4.0
+Pillow~=8.4.0
+inputs~=0.5
